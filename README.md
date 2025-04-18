@@ -1,4 +1,3 @@
-# CAU-25SE-TEAM25
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello&fontSize=90&fontAlignY=36&fontAlign=50&desc=It%27s%20team%2025&descSize=20&descAlign=60&descAlignY=58)
 # 윷놀이 게임 개발
